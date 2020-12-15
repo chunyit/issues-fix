@@ -1,0 +1,7 @@
+git init
+git remote add origin
+git pull origin
+
+git add .
+git commit
+git push -u origin branch
