@@ -1,0 +1,7 @@
+git reset
+git checkout .
+git git clean -fdx
+//source 1
+
+https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/
+//source 2
