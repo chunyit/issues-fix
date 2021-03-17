@@ -1,0 +1,11 @@
+Package restore failed&& Detected package downgrade  
+  
+1.  
+Go to Tools
+Options
+NuGet Package Manager
+General
+Clear All NuGet Cache(s)  
+  
+2.  
+Dotnet restore
