@@ -1,0 +1,11 @@
+Promise does not resolve as obj
+
+To obtain data resolve in promise -> return data to predeclared var inside promise
+
+
+var getTagsObj
+new Promise((resolve)=>{
+    resolve(sublist.getSublist())
+}).then((value)=>{
+    getTagsObj = value
+})
